@@ -4,7 +4,7 @@ A simple, beautiful web application for storing and managing your favorite recip
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live](https://your-username.github.io/your-repo-name)
+👉  https://manjunath-kb123.github.io/Recipe-Book/
 
 ## 📌 Features
 
